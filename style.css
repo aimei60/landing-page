@@ -1,4 +1,21 @@
-.first-section {
-    background-color: rgb(43, 43, 62);
+
+.navbar {
+    background-color: rgb(197, 116, 3);
     color: whitesmoke;
+    display: flex;
+    align-items: center;
+    padding: 10px;
 }
+
+.navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+  }
+  
+  .navbar a.right {
+    justify-content: flex-end;
+  }
