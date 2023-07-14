@@ -1,6 +1,6 @@
 
 .navbar {
-    background-color: rgb(197, 116, 3);
+    background-color: rgb(144, 86, 6);
     color: whitesmoke;
     display: flex;
     align-items: center;
@@ -14,8 +14,14 @@
     text-align: center;
     padding: 10px 10px;
     text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
   
-  .navbar a.right {
-    justify-content: flex-end;
+.active {
+  flex-grow: 1;
+  font-weight: bold;
+  margin-left: 30px;
   }
+  
+
+
