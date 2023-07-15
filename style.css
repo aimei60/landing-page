@@ -28,8 +28,17 @@
     color: rgb(98, 90, 90);
     display: flex;
     justify-content: center;
-    flex-direction: column;
-    padding: 10px;
+    align-items: center;
+    padding: 100px;
   }
 
+ .items {
+  flex-direction: column;
+  align-items: center;
+ }
+  
+.pic {
+  max-width: 400px;
+  flex-direction: row;
+}
 
