@@ -1,4 +1,4 @@
-
+/* header section */
 .navbar {
     background-color: rgb(144, 86, 6);
     color: whitesmoke;
@@ -22,8 +22,10 @@
   font-weight: bold;
   margin-left: 30px;
   }
+
+  /* tou factory section */
   
-  .toy-factory {
+ .toy-factory {
     background-color: rgb(220, 179, 121);
     color: rgb(98, 90, 90);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -73,4 +75,58 @@
   margin: 4px 2px;
   cursor: pointer;
   border-radius: 12px;
+}
+
+/* Products section */
+
+.products-title {
+  background-color: rgb(160, 111, 22);
+  text-align: center;
+  font-size: 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 25px;
+  font-weight: bold;
+}
+
+.products-container {
+  background-color: rgb(160, 111, 22);
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+  padding: 0px 24px 96px 24px;
+}
+
+.products {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 300px;
+  gap: 5px;
+  padding: 20px;  
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  gap: 8px;
+}
+
+.Product1 {
+  width: 175px;
+  height: 175px;
+  border-radius: 28px;
+  object-fit: cover;
+  border: white 5px solid;
+}
+
+.Product1-text {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  flex-wrap: wrap;
+  max-width: 175px;
+
+}
+
+.Product1-title {
+  font-weight: bold;
+  font-size: 20px;
+  padding-bottom: 10px;
+  padding-top: 8px;
 }
