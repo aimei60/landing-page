@@ -23,7 +23,7 @@
   margin-left: 30px;
   }
 
-  /* tou factory section */
+  /* toy factory section */
   
  .toy-factory {
     background-color: rgb(220, 179, 121);
@@ -150,3 +150,21 @@
 }
 
 /* Sign-up section */
+
+.Sign-up {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: bisque;
+  padding: 65px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ 
+.items1 {
+  flex-direction: column;
+  align-items: center;
+}
+ .signup {
+  flex-direction: row;
+  
+ }
