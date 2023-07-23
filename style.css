@@ -153,18 +153,27 @@
 
 .Sign-up {
   display: flex;
-  align-items: center;
-  justify-content: center;
   background-color: bisque;
   padding: 65px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  justify-content: center;
 }
- 
+
 .items1 {
-  flex-direction: column;
+  display: flex;
+  background-color: #6b7dc1;
+  padding: 35px;
+  border-radius: 25px;
   align-items: center;
+  color: aliceblue;
 }
- .signup {
+
+.signup {
   flex-direction: row;
-  
- }
+  padding-left: 70px;
+  color: aliceblue;
+}
+
+.alert {
+  font-weight: bold;
+}
