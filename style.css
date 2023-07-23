@@ -162,18 +162,32 @@
 .items1 {
   display: flex;
   background-color: #6b7dc1;
-  padding: 35px;
-  border-radius: 25px;
+  padding: 55px;
+  border-radius: 10px;
   align-items: center;
   color: aliceblue;
+  gap: 70px;
 }
 
 .signup {
   flex-direction: row;
-  padding-left: 70px;
   color: aliceblue;
+  background-color: rgb(150, 169, 223);
+  color: black;
+  border: 2px solid #e7e7e7;
+  border-radius: 5px;
+  padding: 5px;
 }
 
 .alert {
   font-weight: bold;
+}
+
+/* Copyright section */
+
+.copywright-section {
+  background-color: rgb(144, 86, 6);
+  padding: 15px;
+  text-align: center;
+  color: #e7e7e7;
 }
