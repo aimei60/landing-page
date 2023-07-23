@@ -1,6 +1,6 @@
 /* header section */
 .navbar {
-    background-color: rgb(144, 86, 6);
+    background-color: rgb(228, 144, 27);
     color: whitesmoke;
     display: flex;
     align-items: center;
@@ -26,13 +26,13 @@
   /* toy factory section */
   
  .toy-factory {
-    background-color: rgb(220, 179, 121);
-    color: rgb(98, 90, 90);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 100px;
+  background-color: rgb(77, 74, 70);;
+  color: rgb(228, 144, 27);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 100px;
   }
 
  .items {
@@ -43,20 +43,20 @@
 .pic {
   max-width: 400px;
   flex-direction: row;
-  border-radius: 12px;
+  border-radius: 10px;
 }
 
 .title {
   font-size: 50px;
   font-weight: bolder;
-  padding-right: 30px;
+  padding-right: 20px;
   text-align: left;
   padding-bottom: 5px;
 }
 
 .intro {
   font-size: 20px;
-  padding-right: 30px;
+  padding-right: 20px;
   color: aliceblue;
   padding-bottom: 5px;
 }
@@ -64,7 +64,7 @@
 .button {
   font-size: 15px;
   padding-right: 30px;
-  background-color: #4c67ca;
+  background-color: rgb(235, 175, 103);
   border: none;
   color: white;
   padding: 15px 32px;
@@ -81,6 +81,7 @@
 
 .products-title {
   background-color: rgb(160, 111, 22);
+  color: rgb(243, 188, 121);
   text-align: center;
   font-size: 50px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -138,7 +139,8 @@
   flex-direction: row;
   text-align: center;
   justify-content: center;
-  background-color: aliceblue;
+  background-color: rgb(77, 74, 70);
+  color: rgb(228, 144, 27);
   padding: 60px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 
@@ -153,7 +155,7 @@
 
 .Sign-up {
   display: flex;
-  background-color: bisque;
+  background-color: rgb(160, 111, 22);
   padding: 65px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   justify-content: center;
@@ -161,7 +163,7 @@
 
 .items1 {
   display: flex;
-  background-color: #6b7dc1;
+  background-color: rgb(242, 186, 118);
   padding: 55px;
   border-radius: 10px;
   align-items: center;
@@ -172,7 +174,7 @@
 .signup {
   flex-direction: row;
   color: aliceblue;
-  background-color: rgb(150, 169, 223);
+  background-color: rgb(228, 144, 27);
   color: black;
   border: 2px solid #e7e7e7;
   border-radius: 5px;
@@ -186,7 +188,7 @@
 /* Copyright section */
 
 .copywright-section {
-  background-color: rgb(144, 86, 6);
+  background-color: rgb(228, 144, 27);
   padding: 15px;
   text-align: center;
   color: #e7e7e7;
