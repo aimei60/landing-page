@@ -1,4 +1,6 @@
-I created my first landing page and it was great fun. Flexbox is tricky but definitely rewarding. 
+## Cat Toy Factory Landing page
+
+I created a landing page using the image template provided by The Odin Project. I had to replicate this template and made this more interesting by making it related to cats 🐱.
 
 All of the images are taken from https://www.pexels.com/
 
