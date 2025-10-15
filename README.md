@@ -4,5 +4,5 @@ I created a landing page using the image template provided by The Odin Project. 
 
 All of the images are taken from https://www.pexels.com/
 
-Site: https://aimei60.github.io/odin-landing-page/
+Site: https://aimei60.github.io/landing-page/
 
