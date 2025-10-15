@@ -15,9 +15,9 @@ As part of the learning experience, I replicated the design, but I  made it more
 
 ## What I Learned
 
-- Practiced building a responsive layout.
+- Practiced building a responsive layout structure.
 - Improved my understanding of Flexbox for positioning and alignment.
-- Learned how to structure and style a modern landing page.
+- Learned how to style a modern landing page.
 
 ## Preview
 
