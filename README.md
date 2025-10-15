@@ -7,7 +7,7 @@ All of the images are sourced from https://www.pexels.com/
 
 ## Live Demo
 
-[View the live project here] https://aimei60.github.io/landing-page/
+View the live project here: https://aimei60.github.io/landing-page/
 
 ## Built With
 - HTML5  
@@ -15,4 +15,9 @@ All of the images are sourced from https://www.pexels.com/
 - Flexbox  
 
 ## Preview
-![Project Preview] (./s1.png)
+Here is a preview of the Landing Page
+
+![Screenshot of my landing page](screenshots/s1.png)
+![Screenshot of my landing page](screenshots/s2.png)
+![Screenshot of my landing page](screenshots/s3.png)
+
