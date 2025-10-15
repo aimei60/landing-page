@@ -1,4 +1,8 @@
 /* header section */
+html, body {
+  margin: 0;
+}
+
 .navbar {
     background-color: rgb(228, 144, 27);
     color: whitesmoke;
