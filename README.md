@@ -1,4 +1,4 @@
-## Cat Toy Factory Landing page
+# Cat Toy Factory Landing page
 
 I created a landing page using the image template provided by **The Odin Project**. 
 As part of the learning experience, I replicated the design, but I  made it more fun and cat-themed.
